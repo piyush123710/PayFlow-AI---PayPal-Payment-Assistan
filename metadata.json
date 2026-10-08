@@ -1,0 +1,6 @@
+{
+  "name": "PayFlow AI - PayPal Payment Assistant",
+  "description": "Autonomous AI payment assistant for small businesses powered by PayPal and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
